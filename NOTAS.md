@@ -17,3 +17,10 @@
 * https://pitchlogic.com/stuffpl/about-fastballs
 * https://www.baseball-almanac.com/dictionary-term.php?term=fastball
 * https://baseballsavant.mlb.com/statcast_search
+
+### Bibliografía de las métricas para comparar los modelos
+
+https://msmk.university/logloss/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/
+Prunello, M., & Marfetán, D. (2025). Apuntes de la cátedra Procesamiento avanzado de la información.
+
