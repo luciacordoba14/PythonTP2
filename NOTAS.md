@@ -25,6 +25,10 @@
 * Capretto, T., & Sollberger, D., (2026). Apuntes de la cátedra Programación en Python.
 * https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 
+[Para el modelo XGBoost]{.underline}:
+
+* https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBClassifier
+
 ### Bibliografía de las métricas para comparar los modelos
 
 * https://msmk.university/logloss/
