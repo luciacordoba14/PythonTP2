@@ -44,4 +44,4 @@ Las notebooks incluidas en este repositorio permiten reproducir todo el flujo de
 
 3. Crear una carpeta llamada Datos que contenga los dos conjuntos de datos: termporada1.parquet y temporada2.parquet
 
-4. Correr las notebooks que se encuentran en la carpeta `notebooks` en orden
+4. Correr las notebooks que se encuentran en la carpeta `notebooks` en orden. Importante: Debe seleccionarse el entorno virtual recién creado (uv: pythontp2) como Kernel antes de correr la primera celda, para que detecte las librerías instaladas.
