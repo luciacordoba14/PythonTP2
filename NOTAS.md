@@ -18,9 +18,16 @@
 * https://www.baseball-almanac.com/dictionary-term.php?term=fastball
 * https://baseballsavant.mlb.com/statcast_search
 
+### Bibliografía para la construcción de los modelos
+
+[Para Regresión Logística]{.underline}:
+
+* Capretto, T., & Sollberger, D., (2026). Apuntes de la cátedra Programación en Python.
+* https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
 ### Bibliografía de las métricas para comparar los modelos
 
-https://msmk.university/logloss/
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/
-Prunello, M., & Marfetán, D. (2025). Apuntes de la cátedra Procesamiento avanzado de la información.
+* https://msmk.university/logloss/
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC12818272/
+* Prunello, M., & Marfetán, D. (2025). Apuntes de la cátedra Procesamiento avanzado de la información.
 
