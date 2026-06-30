@@ -21,7 +21,9 @@ Las notebooks incluidas en este repositorio permiten reproducir todo el flujo de
 │   ├── 03-AjusteXGBoost.ipynb
 │   ├── 04-RegresionLogistica.ipynb
 │   ├── 05-ComparacionModelos.ipynb
-│   └── 06-PrediccionesFinales.ipynb    
+│   └── 06-PrediccionesFinales.ipynb 
+├── Datos   
+│   ├── .gitkeep
 └── uv.lock
 ```
 
@@ -42,6 +44,6 @@ Las notebooks incluidas en este repositorio permiten reproducir todo el flujo de
     uv sync
     ```
 
-3. Crear una carpeta llamada Datos que contenga los dos conjuntos de datos: termporada1.parquet y temporada2.parquet
+3. Guardar en la carpeta llamada Datos los dos conjuntos de datos: termporada1.parquet y temporada2.parquet
 
 4. Correr las notebooks que se encuentran en la carpeta `notebooks` en orden. Importante: Debe seleccionarse el entorno virtual recién creado (uv: pythontp2) como Kernel antes de correr la primera celda, para que detecte las librerías instaladas.
